@@ -108,10 +108,10 @@ They are not recommended for apps with multiple levels of hierarchy that require
 ## Mini variant drawer
 
 In this variation, the persistent navigation drawer changes its width.
-Its resting state is as a mini-drawer at the same elevation as the content, clipped by the app bar.
+Its resting state is a mini-drawer at the same elevation as the content, clipped by the app bar.
 When expanded, it appears as the standard persistent navigation drawer.
 
-The mini variant is recommended for apps sections that need quick selection access alongside content.
+The mini variant is recommended for app sections that need quick selection access alongside content.
 
 {{"demo": "MiniDrawer.js", "iframe": true}}
 
@@ -123,7 +123,7 @@ Permanent navigation drawers are the **recommended default for desktop**.
 
 ### Full-height navigation
 
-Apps focused on information consumption that use a left-to-right hierarchy.
+Apps focused on information consumption that uses a left-to-right hierarchy.
 
 {{"demo": "PermanentDrawerLeft.js", "iframe": true}}
 
@@ -131,6 +131,6 @@ Apps focused on information consumption that use a left-to-right hierarchy.
 
 ### Clipped under the app bar
 
-Apps focused on productivity that require balance across the screen.
+Apps focused on productivity that requires balance across the screen.
 
 {{"demo": "ClippedDrawer.js", "iframe": true}}
